@@ -39,6 +39,6 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 - [Layout Web](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
 - [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile)
 
-# Autor - RocketSeat
+## Autor - RocketSeat
 
 Versão atualizada em 24/07/2022 - Feito por Elizabete de Sousa Fabri 💜💜💜
