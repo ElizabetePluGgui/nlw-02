@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=8257E5&labelColor=000000" alt="NLW 02" />
+ <img src="https://img.shields.io/static/v1?label=NLW&message=02&color=8257E5&labelColor=000000" alt="NLW 02" />
 </p>
 
 <br>
