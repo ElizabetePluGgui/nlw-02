@@ -1,13 +1,10 @@
 import express from "express";
+import routes from "./routes";
 
 const app = express();
 
 //app.use(cors());
-//app.use(express.json());
-//app.use(routes);
-
-app.get("/users", (request, response) => {
-  return response.send("ACESSOU A ROTA");
-});
+app.use(express.json());
+app.use(routes);
 
 app.listen(3333);
