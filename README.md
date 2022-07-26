@@ -41,4 +41,4 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 
 ## Autor - RocketSeat
 
-Versão atualizada e desenvolvido com fins em estudos - Feito por Elizabete de Sousa Fabri 💜💜💜
+Desenvolvido com fins em estudos - Feito por Elizabete de Sousa Fabri 💜💜💜
