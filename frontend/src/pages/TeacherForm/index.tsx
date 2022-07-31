@@ -78,7 +78,7 @@ function TeacherForm() {
         children={""}
       />
 
-      <main>
+      <main className="formMain">
         <form onSubmit={handleCreateClass}>
           <fieldset>
             <legend>Seus dados</legend>
